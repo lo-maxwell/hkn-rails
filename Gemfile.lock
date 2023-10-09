@@ -54,8 +54,6 @@ GEM
       activesupport (>= 3.2, < 5.3)
       request_store (~> 1.0)
       scrypt (>= 1.2, < 4.0)
-    autotest-rails (4.2.1)
-      ZenTest (~> 4.5)
     better_errors (2.5.1)
       coderay (>= 1.0.0)
       erubi (>= 1.0.0)
@@ -292,7 +290,6 @@ PLATFORMS
 DEPENDENCIES
   annotate (~> 2.7)
   authlogic (~> 3.6)
-  autotest-rails (~> 4.2)
   better_errors (~> 2.4)
   binding_of_caller (~> 0.8)
   capistrano (~> 3.10.2)
